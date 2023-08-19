@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781278051715",
+    "project_id": "trail-1152a",
+    "storage_bucket": "trail-1152a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781278051715:android:9f81d75bc1c4e821368ab6",
+        "android_client_info": {
+          "package_name": "com.kingsofpearl.trail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781278051715-benthp8nvj6in93o1vpb2tn565gp56e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingsofpearl.trail",
+            "certificate_hash": "0fb0ecd429245e96c806aed9dc4846f01eb67440"
+          }
+        },
+        {
+          "client_id": "781278051715-f8nauhi2b9hj3m14ps4ssork12kvcnkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpag6FZkwMkBoFUhtp29JmRpfqGm2WUts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781278051715-f8nauhi2b9hj3m14ps4ssork12kvcnkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
